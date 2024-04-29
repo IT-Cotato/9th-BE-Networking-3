@@ -41,9 +41,7 @@
     - 지난 과제에서 테스트 데이터를 삽입하는 코드를 재활용합니다.
     - 기존 코드를 사용해 아래 엑셀 파일을 DB에 삽입하고 소요 시간을 측정합니다.
         
-        [서울시_20만개.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/575cb811-b2db-4171-8046-616e405dd733/b93296ef-14e5-40a4-b4b3-0ab3c1dffda7/%EC%84%9C%EC%9A%B8%EC%8B%9C_20%EB%A7%8C%EA%B0%9C.xlsx)
-        
-    
+        [서울시_20만개.xlsx](https://github.com/IT-Cotato/9th-BE-Networking-3/files/15145390/_20.xlsx)
      
     
     **성능 개선 및 시간 측정**
